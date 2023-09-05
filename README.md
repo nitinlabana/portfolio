@@ -1,3 +1,4 @@
 # portfolio
  
-![Uploading screencapture-file-D-all-project-PORTFOLIO-portfolio-index-html-2023-09-05-10_17_43.png…]()
+
+![pf](https://github.com/nitinlabana/portfolio/assets/67837026/4b719cc6-02a1-4647-81b3-098472c323cc)
